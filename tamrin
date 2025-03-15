@@ -1,0 +1,21 @@
+import random
+
+gool_ya_pooch = input('to kodome? right or left?')
+
+if gool_ya_pooch == 'right':
+
+    right = random.randint(3 , 4)
+
+    if right == 3:
+        print('afarin! goole')
+    elif right == 4:
+        print('ridi! pooche')
+        
+elif gool_ya_pooch == 'left':
+
+    left = random.randint(1 , 2)
+
+    if left == 2:
+        print('afarin! goole')
+    elif left == 1:
+        print('ridi! pooche')
