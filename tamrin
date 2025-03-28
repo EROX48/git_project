@@ -1,5 +1,7 @@
 import random
 
+print('khosh amadid!')
+
 gool_ya_pooch = input('to kodome? right or left?')
 
 if gool_ya_pooch == 'right':
