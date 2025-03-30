@@ -35,4 +35,6 @@ while x == 'yes':
     
     if gool_ya_pooch == 'exit':
         print('khodafez')
+        print('iran bord')
         exit()
+        
